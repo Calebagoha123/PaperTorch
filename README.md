@@ -1,7 +1,7 @@
 # PaperTorch
 
 Reimplementing ML papers in PyTorch:
-- [x] AlexNet [[link to paper]()]
+- [x] ~~AlexNet [[link to paper]()]~~
 - [ ] ZFNet [[link to paper]()]
 - [ ] VGG16 [[link to paper]()]
 - [ ] ResNet [[link to paper]()]

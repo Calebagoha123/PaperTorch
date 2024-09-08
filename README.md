@@ -1,7 +1,7 @@
 # PaperTorch
 
 Reimplementing ML papers in PyTorch:
-- [x] ~~AlexNet [[link to paper]()]~~
+- [x] ~~AlexNet [[link to paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)]~~
 - [ ] ZFNet [[link to paper]()]
 - [ ] VGG16 [[link to paper]()]
 - [ ] ResNet [[link to paper]()]

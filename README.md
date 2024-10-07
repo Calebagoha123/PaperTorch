@@ -16,8 +16,8 @@ ZFNet Visualization:
 
 After 80 epochs:
 
-![](deconv.png)
+![](images/deconv.png)
 
 A fully converged model:
 
-![](converged.png)
+![](images/converged.png)

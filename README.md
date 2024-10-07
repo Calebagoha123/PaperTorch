@@ -18,6 +18,8 @@ After 80 epochs:
 
 ![](images/deconv.png)
 
+You can kinda see it starts by picking up the legs and then by the final layer it has a very pixelated image in the general silhouette of a horse.
+
 A fully converged model:
 
 ![](images/converged.png)
